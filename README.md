@@ -1,6 +1,6 @@
 # FCC Timestamp Microservice
 
-[![Run on Repl.it](https://repl.it/badge/github/abordage/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
+[![Run on Repl.it](https://repl.it/badge/github/abordage/fcc-timestamp-microservice)](https://repl.it/github/abordage/fcc-timestamp-microservice)
 
 ## Author
 

@@ -21,7 +21,6 @@ body {
 	flex-direction: column;
 }
 
-/* Optional */
 main {
 	padding: 1rem;
 	display: flex;
@@ -29,7 +28,7 @@ main {
 	align-content: center;
 }
 
-header{
+header, footer{
 	padding: 1rem;
 }
 
@@ -40,7 +39,6 @@ h2 {
 ul {
 	list-style-type: none;
 	margin: 1rem 0 0 0;
-	padding: 0;
 }
 
 li {
@@ -57,5 +55,4 @@ pre{
 
 footer{
 	margin-top: auto;
-	padding: 1rem;
 }

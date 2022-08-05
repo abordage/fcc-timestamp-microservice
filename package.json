@@ -1,8 +1,12 @@
 {
-  "author": "Pavel Bychko <box@abordage.dev>",
   "name": "fcc-timestamp-microservice",
   "version": "0.0.1",
   "description": "An FCC Backend Challenge",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp"
+  ],
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -16,10 +20,7 @@
     "type": "git",
     "url": "https://github.com/abordage/fcc-timestamp-microservice.git"
   },
-  "keywords": [
-    "node",
-    "express",
-    "freeCodeCamp"
-  ],
+  "author": "Pavel Bychko <box@abordage.dev>",
+  "homepage": "https://abordage.dev",
   "license": "MIT"
 }
